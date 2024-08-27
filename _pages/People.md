@@ -8,7 +8,7 @@ permalink: /People/
 
 # Group Members
 
- **We are  looking for new PhD students and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/Join Us) **!**
+ **We are  looking for new PhD students and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [PI](#PI), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
