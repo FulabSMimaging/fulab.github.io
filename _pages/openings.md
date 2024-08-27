@@ -7,12 +7,11 @@ permalink: /vacancies
 ---
 
 # Open positions
-### **We are  looking for new group members with passion, talent, and selfmotivation!**
+#### **We look for group members with passion, talent, and self-motivation!**
 
-**👉We are currently open for PhD applications.**
+**👉We are currently open for PhD applications (starting date Sept 2025).**
 
 **👉CityU master students and undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
-
 
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
