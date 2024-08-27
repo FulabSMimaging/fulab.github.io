@@ -62,6 +62,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
   {% endif %}
   </ul>
 
+  <i>Teaching:</i> <br>
   {{ member.teaching1 }} <br>
   {{ member.teaching2 }} <br>
   {{ member.intro }} <br>
