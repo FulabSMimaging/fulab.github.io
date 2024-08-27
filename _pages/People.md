@@ -11,7 +11,7 @@ permalink: /People/
  **We are  looking for new PhD students and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master & Bachelor](#master-and-bachelor-students), [Visting Scholar](#visiting), [alumni](#alumni).
+Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master & Bachelor](#Master-and-Bachelor-Students), [Visting Scholar](#Visiting-Scholar), [alumni](#alumni).
 
 ## PI
 {% assign number_printed = 0 %}
@@ -245,7 +245,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 </div>
 {% endif %}
 
-## visiting
+## Visiting Scholar
 {% assign number_printed = 0 %}
 {% for member in site.data.Visiting %}
 
