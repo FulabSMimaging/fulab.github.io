@@ -64,6 +64,6 @@ We are grateful for funding from CityU, [Research Grant Council](https://www.ugc
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU_logo_2015.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RGC_logo.jpeg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsfc_logo.jpeg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RGC_logo.jpeg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsfc_logo.jpeg" style="width: 1600px">
 </figure>
