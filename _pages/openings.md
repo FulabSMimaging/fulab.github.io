@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**![alt text](image.png)We are currently open for PhD applications. CityU master students, undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
+**👉We are currently open for PhD applications. CityU master students, undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
 We are  looking for new group members with passion, talent, and selfmotivation!
 
