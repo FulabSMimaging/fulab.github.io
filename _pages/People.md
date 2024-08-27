@@ -65,8 +65,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
   <i>Teaching:</i> <br>
   {{ member.teaching1 }} <br>
   {{ member.teaching2 }} <br>
-  {{ member.intro }} <br>
-  Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
+  {{ member.intro }} Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
