@@ -7,10 +7,12 @@ permalink: /vacancies
 ---
 
 # Open positions
+**### We are  looking for new group members with passion, talent, and selfmotivation!**
 
-**👉We are currently open for PhD applications. CityU master students, undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
+**👉We are currently open for PhD applications.**
+**👉CityU master students and undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
-We are  looking for new group members with passion, talent, and selfmotivation!
+
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
