@@ -74,7 +74,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-Check out [CV]({{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
+Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
 
 ## Postdoc
 {% assign number_printed = 0 %}
