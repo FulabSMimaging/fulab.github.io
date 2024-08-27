@@ -199,7 +199,7 @@ Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
-{% for member in site.data.MS&BS %}
+{% for member in site.data.MS_BS %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
