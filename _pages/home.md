@@ -58,12 +58,12 @@ Cells actively interact with each other and the outside surroundings. Microscopi
 We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our lab integrates super-resolution and other advanced optical imaging techniques with various chemical, biological and engineering tools to study complex microbial systems with high resolution and sensitivity at different scales, from collective bulk cell behaviors down to single-molecular mechanisms. Learn more [here](research). 
 
 
-We are grateful for funding from CityU, [Research Grant Council](https://www.ugc.edu.hk/eng/rgc/), and [NSFC] (https://www.nsfc.gov.cn/english/site_1/index.html).
+We are grateful for funding from CityU, [Research Grant Council](https://www.ugc.edu.hk/eng/rgc/), and [NSFC](https://www.nsfc.gov.cn/english/site_1/index.html).
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU_logo_2015.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RGC_logo.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nsfc_logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU_logo_2015.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RGC_logo.jpeg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsfc_logo.png" style="width: 150px">
 </figure>
