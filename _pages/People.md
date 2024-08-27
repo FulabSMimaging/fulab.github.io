@@ -15,7 +15,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 
 ## PI
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.PI %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -77,7 +77,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 
 ## Postdoc
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -140,7 +140,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 
 ## PhD students
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.PhD %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -194,7 +194,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.MS&BS %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -247,7 +247,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD students), [Master &
 
 ## visiting
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.Visiting %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
