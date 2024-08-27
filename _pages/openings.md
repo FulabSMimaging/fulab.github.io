@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Fu Lab - Vacancies"
 layout: textlay
 excerpt: "Join Us"
 sitemap: false
@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD application. Master, Undergraduates interested in gaining research experience and visiting scholars are always welcome to get in touch.**
+**![alt text](image.png)We are currently open for PhD applications. CityU master students, undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
 We are  looking for new group members with passion, talent, and selfmotivation!
 
@@ -31,11 +31,3 @@ We especially welcome postdocs with fellowships. I'd be happy to support you, al
 
 ### Master projects for CityU students
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-#<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-#</figure>
