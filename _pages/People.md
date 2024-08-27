@@ -25,7 +25,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h3>{{ member.name }}</h3>
   <i>{{ member.info }} </i> <br> <!--<br>email: <{{ member.email }}></i> -->
   {{ member.email }} <br>
 
@@ -60,9 +60,10 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  <li> {{Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.}} </li>
+
   </ul>
   {{ member.intro }} <br>
+  Check out [CV]({{ site.url }}{{ site.baseurl }}/downloads/Bing_Fu_CV.pdf) here.
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
