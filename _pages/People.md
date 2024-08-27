@@ -24,7 +24,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
 {% endif %}
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: top" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <br> <!--<br>email: <{{ member.email }}></i> -->
   {{ member.email }} <br>
