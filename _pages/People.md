@@ -24,7 +24,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
 {% endif %}
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: top" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <br> <!--<br>email: <{{ member.email }}></i> -->
   {{ member.email }} <br>
@@ -62,9 +62,7 @@ Jump to [PI](#PI), [Postdoc](#Postdoc), [PhD students](#PhD-students), [Master &
   {% endif %}
 
   </ul>
-  {{Bing Fu is currently an Assistant Professor in the Department of Biomedical Engineering at the City University of Hong Kong. Her work focuses on utilizing super-resolution microscopy to understand bacterial behaviors from single-molecule, single-cell level to community level. 
-
-Dr. Fu was a postdoctoral associate at Cornell University under the supervision of Prof. Peng Chen. She studied copper homeostasis in live E. coli cells and developed an innovative multimodal imaging platform to investigate electron transport mechanisms at the semiconductor-microbe interface. She obtained her Ph.D. in Chemistry at the University of Michigan with Prof. Julie Biteen, studying light-matter interactions with super-resolution microscopy. Some selected award and honors of Dr. Fu include the Graduate Women in Science National Fellowship (Honorable Mention), Karle symposium travel award, Florence Fenwick Outstanding Graduate Student Instructor Award, etc. }}
+  {{ member.intro }} <br>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
