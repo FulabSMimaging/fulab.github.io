@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD application. Master, Undergraduates interested in gaining research experience and visiting scholars are always welcome to get in touch.*
+**We are currently open for PhD application. Master, Undergraduates interested in gaining research experience and visiting scholars are always welcome to get in touch.**
 
 We are  looking for new group members with passion, talent, and selfmotivation!
 
