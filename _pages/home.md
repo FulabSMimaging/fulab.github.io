@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: We are looking for PhD students and research interns who want to gain research experience. Please contact me if you are interested.**
+**News: We are looking for PhD students and research interns who want to gain research experience. Please contact me if you are interested.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,22 +53,17 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+Cells actively interact with each other and the outside surroundings. Microscopic study at the cellular interface is critical in a wide variety of aspects, including host-pathogen interplay in infectious diseases, cell communications in biofilms, and electron/energy transfer in biotic-abiotic hybrid systems.  However, even cells with the exact same genotype have large heterogeneity in terms of metabolic states, protein expression levels and local microscopic environment, therefore bulk measurements can only report the ensemble average. In contrast, single-cell and single-molecule super-resolution techniques (awarded the [2014 Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2014/summary/) in Chemistry) can well resolve this heterogeneity, hence uncover clearer, more realistic mechanisms.
+
+We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our lab integrates super-resolution and other advanced optical imaging techniques with various chemical, biological and engineering tools to study complex microbial systems with high resolution and sensitivity at different scales, from collective bulk cell behaviors down to single-molecular mechanisms. Learn more [here](research). 
 
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+We are grateful for funding from CityU, [Research Grant Council](https://www.ugc.edu.hk/eng/rgc/), and [NSFC] (https://www.nsfc.gov.cn/english/site_1/index.html).
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU_logo_2015.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RGC_logo.jpeg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nsfc_logo.png" style="width: 120px">
 </figure>
