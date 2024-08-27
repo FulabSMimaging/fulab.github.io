@@ -10,8 +10,8 @@ title: The Fu Lab
 email: bingfu@cityu.edu.hk
 description: > # this means to ignore newlines until "baseurl:"
   Website of the FuLab.
-baseurl: ""
-url: "https://fulabsmimaging.github.io/fulab.github.io//"
+baseurl: "https://fulabsmimaging.github.io/fulab.github.io/"
+url: "https://fulabsmimaging.github.io/fulab.github.io/"
 
 include:
   - .htaccess
