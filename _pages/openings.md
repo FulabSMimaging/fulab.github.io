@@ -7,9 +7,10 @@ permalink: /vacancies
 ---
 
 # Open positions
-**### We are  looking for new group members with passion, talent, and selfmotivation!**
+### **We are  looking for new group members with passion, talent, and selfmotivation!**
 
 **👉We are currently open for PhD applications.**
+
 **👉CityU master students and undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
 
