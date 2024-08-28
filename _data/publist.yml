@@ -1,12 +1,13 @@
-- title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
+- title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
   description: TCS are important for various bacterial process, including metal transport. How the signals are transducted by the TCS are not fully clear especially in live cell. Here we explored this using live-cell single-molecule tracking. 
-  authors: Bing Fu<sup>#</sup>, Kushal Sengupta<sup>#</sup>, Lauren A. Genova<sup>#</sup>, Ace George Santiago, Won Jung, Łukasz Krzemiński, Udit Kumar Chakraborty, Wenyao Zhang, Peng Chen<sup>*</sup>
+  authors: Bing Fu<sup>#</sup>, Xianwen Mao<sup>#</sup>, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow, Peng Chen<sup>*</sup>
   link:
-    url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
-    display: PNAS, 117, 24, 13248-13255 (2020) 
-  highlight: 1
-  news2: Featured in Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
+    url: https://www.nature.com/articles/s41557-023-01285-z
+    display: Nature Chemistry, 15, 1400-1407 (2023)  
+  highlight: 2
+  news1: Featured in C&EN news, “[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)”
+  news2: Cornell Chronicle, “[Imaging shows how solar-powered microbes turn CO2 into bioplastic.](https://news.cornell.edu/stories/2023/07/imaging-shows-how-solar-powered-microbes-turn-co2-bioplastic)”
 
 - title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
   image: PNAS2020.jpg
