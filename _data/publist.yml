@@ -1,4 +1,3 @@
-
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
   description: How to explore electron transport pathways in biohybrids at single-cell level?
@@ -21,3 +20,12 @@
   highlight: 1
   news2: Featured in Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
 
+- title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
+  image: PNAS2020.jpg
+  description: TCS are important for various bacterial process, including metal transport. How the signals are transducted by the TCS are not fully clear especially in live cell. Here we explored this using live-cell single-molecule tracking. 
+  authors: Bing Fu<sup>#</sup>, Kushal Sengupta<sup>#</sup>, Lauren A. Genova<sup>#</sup>, Ace George Santiago, Won Jung, Łukasz Krzemiński, Udit Kumar Chakraborty, Wenyao Zhang, Peng Chen<sup>*</sup>
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
+    display: PNAS, 117, 24, 13248-13255 (2020) 
+  highlight: 1
+  news2: Featured in Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
