@@ -8,10 +8,10 @@
     display: Nature Chemistry 15, 1400-1407 (2023)
   highlight: 1
 
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: Bing Fu#, Xianwen Mao#, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow & Peng Chen*
+- title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
+  image: PNAS2020.jpg
+  description: TCS are important for various bacterial process, including metal transport. How the signals are transducted by the TCS are not fully clear especially in live cell. Here we explored this using live-cell single-molecule tracking. 
+  authors: Bing Fu<sub>{#}, Kushal Sengupta#, Lauren A. Genova#, Ace George Santiago, Won Jung, Łukasz Krzemiński, Udit Kumar Chakraborty, Wenyao Zhang, Peng Chen*
   link:
     url: https://www.nature.com/articles/s41557-023-01285-z
     display: Nature Chemistry 15, 1400-1407 (2023)
