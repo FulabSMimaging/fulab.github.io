@@ -17,7 +17,7 @@
     url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
     display: PNAS, 117, 24, 13248-13255 (2020) 
   highlight: 1
-  news2: Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
+  news1: Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
 
 - title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
   image: Genova2019.jpg
@@ -27,3 +27,13 @@
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
     display: PNAS, 116, 51, 25462-25467 (2019)
     highlight: 0
+
+- title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
+  image: ACS_Nano2017.gif
+  description: How to quantify mislocalization in super-resolution imaging when plasmonic nanoparticle couples with fluorescent molecules. 
+  authors: Bing Fu, Benjamin P. Isaacoff, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acsnano.7b03420
+    display: ACS Nano, 11, 9, 8978-8987 (2017). 
+  highlight: 1
+  news1: Michigan News, [Accounting for the “scooching effect”](https://news.umich.edu/accounting-for-the-scooching-effect/).
