@@ -17,7 +17,7 @@
     url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
     display: PNAS, 117, 24, 13248-13255 (2020) 
   highlight: 1
-  news2: Featured in Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
+  news2: Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”.
 
 - title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
   image: Genova2019.jpg
@@ -26,4 +26,4 @@
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
     display: PNAS, 116, 51, 25462-25467 (2019)
-    highlight: 1
+    highlight: 0
