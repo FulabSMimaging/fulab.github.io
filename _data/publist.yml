@@ -27,13 +27,3 @@
     display: PNAS, 117, 24, 13248-13255 (2020) 
   highlight: 1
   news1: Cornell Chronicle, "[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)"
-
-
-  - title: "Plasmon-enhanced uorescence permits super-resolution imaging in vitro and in cells"
-  image: JPCC2015.gif
-  description: Conference paper
-  authors: Esther Wertz, Jessica D. Flynn, Courtney N. Talicska, <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen.
-  link:
-    url: https://opg.optica.org/abstract.cfm?uri=ls-2013-LTh3H.6
-    display: Laser Science, page LTh3H.6 (2013)
-  highlight: 0
