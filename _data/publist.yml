@@ -5,7 +5,7 @@
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
     display: Journal of Materials Chemistry A, 12, 19627-19662 (2024) 
-  highlight: 0
+  highlight: 1
 
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
@@ -29,7 +29,7 @@
   news1: Cornell Chronicle, "[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)"
 
 - title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
-  image: Genova2019.jpg
+  image: Genova2019.jpeg
   description: Mechanical stress is found to disassemble membrane protein pumps and compromise cell survival. 
   authors: Lauren A. Genova<sup>#</sup>, Melanie F. Roberts<sup>#</sup>, Yu-Chern Wong, Christine E. Harper, Ace George Santiago, <strong>Bing Fu</strong>, Abhishek Srivastava, Won Jung, Lucy M. Wang, Łukasz Krzemiński, Xianwen Mao, Xuanhao Sun, Chung-Yuen Hui, Peng Chen, Christopher J. Hernandez<sup>*</sup>
   link:
@@ -37,3 +37,11 @@
     display: PNAS, 116, 51, 25462-25467 (2019)
   highlight: 1
   
+- title: "Super-Resolving the Distance-Dependent Plasmon-Enhanced Fluorescence of Single Dye and Fluorescent Protein Molecules"
+  image: JPCC2015.gif
+  description: There is an optimal distance between plasmonic NP and dye molecule for the largest enhancement.  
+  authors: <strong>Bing Fu</strong>, Jessica D. Flynn, Benjamin P. Isaacoff, David J. Rowland, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b05154
+    display: Journal of Physical Chemistry C, 119, 33, 19350-19358 (2015)
+  highlight: 1
