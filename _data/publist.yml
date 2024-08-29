@@ -14,7 +14,7 @@
   link:
     url: https://www.nature.com/articles/s41557-023-01286-y
     display: Nature Chemistry, 15, 1336-1337 (2023)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
@@ -74,4 +74,4 @@
   link:
     url: https://opg.optica.org/abstract.cfm?uri=ls-2013-LTh3H.6
     display: Laser Science, page LTh3H.6 (2013)
-  highlight: 0
+  highlight: 1
