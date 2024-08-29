@@ -1,3 +1,12 @@
+- title: "Single-molecule fluorescence imaging of photocatalytic nanomaterials"
+  image: NatChem2023.jpg
+  description: Review article  
+  authors: *Bing Fu<sup>#</sup>*, Xianwen Mao<sup>#</sup>, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow, Peng Chen<sup>*</sup>
+  link:
+    url: https://www.nature.com/articles/s41557-023-01285-z
+    display: Nature Chemistry, 15, 1400-1407 (2023)  
+  highlight: 1
+
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
   description: Single-cell level exploration of electron transport in biohybrids.  
@@ -6,7 +15,7 @@
     url: https://www.nature.com/articles/s41557-023-01285-z
     display: Nature Chemistry, 15, 1400-1407 (2023)  
   highlight: 1
-  news1: Cornell Chronicle, "[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)"
+  news1: Featured in C&EN news, "[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)"
   news2: Cornell Chronicle, "[Imaging shows how solar-powered microbes turn CO2 into bioplastic.](https://news.cornell.edu/stories/2023/07/imaging-shows-how-solar-powered-microbes-turn-co2-bioplastic)"
 
 - title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
@@ -26,6 +35,7 @@
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
     display: PNAS, 116, 51, 25462-25467 (2019)
+  highlight: 1
   
 
 - title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
