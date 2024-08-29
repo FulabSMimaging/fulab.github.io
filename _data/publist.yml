@@ -5,7 +5,7 @@
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
     display: Journal of Materials Chemistry A, 12, 19627-19662 (2024) 
-  highlight: 1
+  highlight: 0
 
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
@@ -27,3 +27,13 @@
     display: PNAS, 117, 24, 13248-13255 (2020) 
   highlight: 1
   news1: Cornell Chronicle, "[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)"
+
+- title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
+  image: Genova2019.jpg
+  description: Mechanical stress is found to disassemble membrane protein pumps and compromise cell survival. 
+  authors: Lauren A. Genova<sup>#</sup>, Melanie F. Roberts<sup>#</sup>, Yu-Chern Wong, Christine E. Harper, Ace George Santiago, <strong>Bing Fu</strong>, Abhishek Srivastava, Won Jung, Lucy M. Wang, Łukasz Krzemiński, Xianwen Mao, Xuanhao Sun, Chung-Yuen Hui, Peng Chen, Christopher J. Hernandez<sup>*</sup>
+  link:
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
+    display: PNAS, 116, 51, 25462-25467 (2019)
+  highlight: 1
+  
