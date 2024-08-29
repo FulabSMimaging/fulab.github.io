@@ -5,7 +5,7 @@
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
     display: Journal of Materials Chemistry A, 12, 19627-19662 (2024) 
-  highlight: 1
+  highlight: 0
 
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
@@ -17,6 +17,15 @@
   highlight: 1
   news1: Featured in C&EN news, "[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)"
   news2: Cornell Chronicle, "[Imaging shows how solar-powered microbes turn CO2 into bioplastic.](https://news.cornell.edu/stories/2023/07/imaging-shows-how-solar-powered-microbes-turn-co2-bioplastic)"
+
+- title: "A multimodal imaging approach for interrogating energy-conversion pathways in biohybrids"
+  image: NatChem2023.jpg
+  description: A research briefing  
+  authors: <strong>Bing Fu</strong>, Peng Chen
+  link:
+    url: https://www.nature.com/articles/s41557-023-01286-y
+    display: Nature Chemistry, 15, 1336-1337 (2023)
+  highlight: 0
 
 - title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
   image: PNAS2020.jpg
