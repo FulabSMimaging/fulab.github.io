@@ -6,8 +6,8 @@
     url: https://www.nature.com/articles/s41557-023-01285-z
     display: Nature Chemistry, 15, 1400-1407 (2023)  
   highlight: 1
-  news1: Featured in C&EN news, “[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)”
-  news2: Cornell Chronicle, “[Imaging shows how solar-powered microbes turn CO2 into bioplastic.](https://news.cornell.edu/stories/2023/07/imaging-shows-how-solar-powered-microbes-turn-co2-bioplastic)”
+  news1: Featured in C&EN news, "[Imaging platform illuminates biohybrids.](https://cen.acs.org/materials/biomaterials/Imaging-platform-illuminates-biohybrids/101/i25)"
+  news2: Cornell Chronicle, "[Imaging shows how solar-powered microbes turn CO2 into bioplastic.](https://news.cornell.edu/stories/2023/07/imaging-shows-how-solar-powered-microbes-turn-co2-bioplastic)"
 
 - title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
   image: PNAS2020.jpg
@@ -17,7 +17,7 @@
     url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
     display: PNAS, 117, 24, 13248-13255 (2020) 
   highlight: 1
-  news1: Cornell Chronicle, “[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)”
+  news1: Cornell Chronicle,"[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)""
 
 - title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
   image: Genova2019.jpg
@@ -36,4 +36,4 @@
     url: https://pubs.acs.org/doi/full/10.1021/acsnano.7b03420
     display: ACS Nano, 11, 9, 8978-8987 (2017). 
   highlight: 1
-  news1: Michigan News, [Accounting for the “scooching effect”](https://news.umich.edu/accounting-for-the-scooching-effect/).
+  news1: Michigan News, [Accounting for the "scooching effect"](https://news.umich.edu/accounting-for-the-scooching-effect/).
