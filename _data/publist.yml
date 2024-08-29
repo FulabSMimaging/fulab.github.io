@@ -1,16 +1,26 @@
 - title: "Single-molecule fluorescence imaging of photocatalytic nanomaterials"
-  image: NatChem2023.jpg
+  image: JMCA2024.jpg
   description: Review article  
-  authors: <strong>Bing Fu<sup>#</sup>}</strong>, Xianwen Mao<sup>#</sup>, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow, Peng Chen<sup>*</sup>
+  authors: Shuchi Zhang, Deqi Fan, Qingdian Yan, Yi Lu, Donglei Wu, <strong>Bing Fu</strong>, Ming Zhao<sup>*</sup>
   link:
-    url: https://www.nature.com/articles/s41557-023-01285-z
-    display: Nature Chemistry, 15, 1400-1407 (2023)  
-  highlight: 1
+    url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
+    display: Journal of Materials Chemistry A, 12, 19627–19662 (2024) 
+  highlight: 0
+
+- title: "A multimodal imaging approach for interrogating energy-conversion pathways in biohybrids"
+  image: NatChem2023.jpg
+  description: A research briefing  
+  authors: .strong>Bing Fu</strong>, Peng Chen
+  link:
+    url: https://www.nature.com/articles/s41557-023-01286-y
+    display: Nature Chemistry, 15, 1336-1337 (2023)
+  highlight: 0
+
 
 - title: "Single-cell multimodal imaging uncovers energy conversion pathways in biohybrids"
   image: NatChem2023.jpg
   description: Single-cell level exploration of electron transport in biohybrids.  
-  authors: Bing Fu<sup>#</sup>, Xianwen Mao<sup>#</sup>, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow, Peng Chen<sup>*</sup>
+  authors: <strong>Bing Fu<sup>#</sup></strong>, Xianwen Mao<sup>#</sup>, Youngchan Park, Zhiheng Zhao, Tianlei Yan, Won Jung, Danielle H. Francis, Wenjie Li, Brooke Pian, Farshid Salimijazi, Mokshin Suri, Tobias Hanrath, Buz Barstow, Peng Chen<sup>*</sup>
   link:
     url: https://www.nature.com/articles/s41557-023-01285-z
     display: Nature Chemistry, 15, 1400-1407 (2023)  
@@ -21,7 +31,7 @@
 - title: "Metal-induced sensor mobilization turns on affinity to activate regulator for metal detoxification in live bacteria"
   image: PNAS2020.jpg
   description: TCS are important for various bacterial process, including metal transport. How the signals are transducted by the TCS are not fully clear especially in live cell. Here we explored this using live-cell single-molecule tracking. 
-  authors: Bing Fu<sup>#</sup>, Kushal Sengupta<sup>#</sup>, Lauren A. Genova<sup>#</sup>, Ace George Santiago, Won Jung, Łukasz Krzemiński, Udit Kumar Chakraborty, Wenyao Zhang, Peng Chen<sup>*</sup>
+  authors: <strong>Bing Fu<sup>#</sup></strong>, Kushal Sengupta<sup>#</sup>, Lauren A. Genova<sup>#</sup>, Ace George Santiago, Won Jung, Łukasz Krzemiński, Udit Kumar Chakraborty, Wenyao Zhang, Peng Chen<sup>*</sup>
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1919816117
     display: PNAS, 117, 24, 13248-13255 (2020) 
@@ -31,7 +41,7 @@
 - title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
   image: Genova2019.jpg
   description: Mechanical stress is found to disassemble membrane protein pumps and compromise cell survival. 
-  authors: Lauren A. Genova<sup>#</sup>, Melanie F. Roberts<sup>#</sup>, Yu-Chern Wong, Christine E. Harper, Ace George Santiago, Bing Fu, Abhishek Srivastava, Won Jung, Lucy M. Wang, Łukasz Krzemiński, Xianwen Mao, Xuanhao Sun, Chung-Yuen Hui, Peng Chen, Christopher J. Hernandez<sup>*</sup>
+  authors: Lauren A. Genova<sup>#</sup>, Melanie F. Roberts<sup>#</sup>, Yu-Chern Wong, Christine E. Harper, Ace George Santiago, <strong>Bing Fu</strong>, Abhishek Srivastava, Won Jung, Lucy M. Wang, Łukasz Krzemiński, Xianwen Mao, Xuanhao Sun, Chung-Yuen Hui, Peng Chen, Christopher J. Hernandez<sup>*</sup>
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
     display: PNAS, 116, 51, 25462-25467 (2019)
@@ -41,9 +51,27 @@
 - title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
   image: ACS_Nano2017.gif
   description: How to quantify mislocalization in super-resolution imaging when plasmonic nanoparticle couples with fluorescent molecules. 
-  authors: Bing Fu, Benjamin P. Isaacoff, Julie S. Biteen<sup>*</sup>
+  authors: <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen<sup>*</sup>
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acsnano.7b03420
     display: ACS Nano, 11, 9, 8978-8987 (2017). 
   highlight: 1
   news1: Michigan News, [Accounting for the "scooching effect"](https://news.umich.edu/accounting-for-the-scooching-effect/).
+
+  - title: "Super-Resolving the Distance-Dependent Plasmon-Enhanced Fluorescence of Single Dye and Fluorescent Protein Molecules"
+  image: JPCC2015.gif
+  description: There is an optimal distance between plasmonic NP and dye molecule for the largest enhancement.  
+  authors: <strong>Bing Fu</strong>, Jessica D. Flynn, Benjamin P. Isaacoff, David J. Rowland, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b05154
+    display: Journal of Physical Chemistry C, 119, 33, 19350-19358 (2015)
+  highlight: 1
+
+  - title: "Plasmon-enhanced uorescence permits super-resolution imaging in vitro and in cells"
+  image: JPCC2015.gif
+  description: Conference paper
+  authors: Esther Wertz, Jessica D. Flynn, Courtney N. Talicska, <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen.
+  link:
+    url: https://opg.optica.org/abstract.cfm?uri=ls-2013-LTh3H.6
+    display: Laser Science, page LTh3H.6 (2013)
+  highlight: 0
