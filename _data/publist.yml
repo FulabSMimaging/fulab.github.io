@@ -28,3 +28,30 @@
   highlight: 1
   news1: Cornell Chronicle, "[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)"
 
+- title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
+  image: ACS_Nano2017.gif
+  description: How to quantify mislocalization in super-resolution imaging when plasmonic nanoparticle couples with fluorescent molecules. 
+  authors: <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acsnano.7b03420
+    display: ACS Nano, 11, 9, 8978-8987 (2017). 
+  highlight: 1
+  news1: Michigan News, [Accounting for the "scooching effect"](https://news.umich.edu/accounting-for-the-scooching-effect/).
+
+  - title: "Super-Resolving the Distance-Dependent Plasmon-Enhanced Fluorescence of Single Dye and Fluorescent Protein Molecules"
+  image: JPCC2015.gif
+  description: There is an optimal distance between plasmonic NP and dye molecule for the largest enhancement.  
+  authors: <strong>Bing Fu</strong>, Jessica D. Flynn, Benjamin P. Isaacoff, David J. Rowland, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b05154
+    display: Journal of Physical Chemistry C, 119, 33, 19350-19358 (2015)
+  highlight: 1
+
+  - title: "Plasmon-enhanced uorescence permits super-resolution imaging in vitro and in cells"
+  image: JPCC2015.gif
+  description: Conference paper
+  authors: Esther Wertz, Jessica D. Flynn, Courtney N. Talicska, <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen.
+  link:
+    url: https://opg.optica.org/abstract.cfm?uri=ls-2013-LTh3H.6
+    display: Laser Science, page LTh3H.6 (2013)
+  highlight: 0
