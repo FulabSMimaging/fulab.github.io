@@ -28,6 +28,15 @@
   highlight: 1
   news1: Cornell Chronicle, "[Researchers track how bacteria purge toxic metals](https://news.cornell.edu/stories/2020/05/researchers-track-how-bacteria-purge-toxic-metals)"
 
+- title: "Mechanical stress compromises multicomponent efflux complexes in bacteria"
+  image: Genova2019.jpg
+  description: Mechanical stress is found to disassemble membrane protein pumps and compromise cell survival. 
+  authors: Lauren A. Genova<sup>#</sup>, Melanie F. Roberts<sup>#</sup>, Yu-Chern Wong, Christine E. Harper, Ace George Santiago, <strong>Bing Fu</strong>, Abhishek Srivastava, Won Jung, Lucy M. Wang, Łukasz Krzemiński, Xianwen Mao, Xuanhao Sun, Chung-Yuen Hui, Peng Chen, Christopher J. Hernandez<sup>*</sup>
+  link:
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
+    display: PNAS, 116, 51, 25462-25467 (2019)
+  highlight: 1
+  
 - title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
   image: ACS_Nano2017.gif
   description: How to quantify mislocalization in super-resolution imaging when plasmonic nanoparticle couples with fluorescent molecules. 
@@ -47,11 +56,3 @@
     display: Journal of Physical Chemistry C, 119, 33, 19350-19358 (2015)
   highlight: 1
 
-  - title: "Plasmon-enhanced uorescence permits super-resolution imaging in vitro and in cells"
-  image: JPCC2015.gif
-  description: Conference paper
-  authors: Esther Wertz, Jessica D. Flynn, Courtney N. Talicska, <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen.
-  link:
-    url: https://opg.optica.org/abstract.cfm?uri=ls-2013-LTh3H.6
-    display: Laser Science, page LTh3H.6 (2013)
-  highlight: 0
