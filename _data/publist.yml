@@ -36,6 +36,16 @@
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1909562116
     display: PNAS, 116, 51, 25462-25467 (2019)
   highlight: 1
+
+- title: "Super-Resolving the Actual Position of Single Fluorescent Molecules Coupled to a Plasmonic Nanoantenna"
+  image: ACS_Nano2017.gif
+  description: How to quantify mislocalization in super-resolution imaging when plasmonic nanoparticle couples with fluorescent molecules. 
+  authors: <strong>Bing Fu</strong>, Benjamin P. Isaacoff, Julie S. Biteen<sup>*</sup>
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acsnano.7b03420
+    display: ACS Nano, 11, 9, 8978-8987 (2017). 
+  highlight: 1
+  news1: Michigan News, [Accounting for the "scooching effect"](https://news.umich.edu/accounting-for-the-scooching-effect/).
   
 - title: "Super-Resolving the Distance-Dependent Plasmon-Enhanced Fluorescence of Single Dye and Fluorescent Protein Molecules"
   image: JPCC2015.gif
