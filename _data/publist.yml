@@ -1,8 +1,17 @@
 - title: "Single-molecule fluorescence imaging of photocatalytic nanomaterials"
-  image: JMCA2024.jpg
+  image: JMCA2024.gif
   description: Review article  
   authors: Shuchi Zhang, Deqi Fan, Qingdian Yan, Yi Lu, Donglei Wu, <strong>Bing Fu</strong>, Ming Zhao<sup>*</sup>
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
     display: Journal of Materials Chemistry A, 12, 19627-19662 (2024) 
+  highlight: 1
+
+  - title: "A multimodal imaging approach for interrogating energy-conversion pathways in biohybrids"
+  image: NatChem2023.jpg
+  description: A research briefing  
+  authors: <strong>Bing Fu</strong>, Peng Chen
+  link:
+    url: https://www.nature.com/articles/s41557-023-01286-y
+    display: Nature Chemistry, 15, 1336-1337 (2023)
   highlight: 1
