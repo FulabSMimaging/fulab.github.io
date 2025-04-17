@@ -1,9 +1,18 @@
-- title: "Transporter excess and clustering facilitate adaptor protein shuttling for bacterial efflux"
+- title: "Spatially resolved charge-transfer kinetics at the quantum dot–microbe interface using fluorescence lifetime imaging microscopy"
+  image: 
+  description: 
+  authors: Mokshin Suri, Farshid Salimi Jazi, Jack C Crowley, Youngchan Park, <strong>Bing Fu</strong>, Peng Chen, Warren R Zipfel, Buz Barstow, Tobias Hanrath<sup>*</sup>
+  link:
+    url: https://www.pnas.org/doi/abs/10.1073/pnas.2407987122
+    display: PNAS, 122, 12, e2407987122 (2025)  
+  highlight: 0
+- 
+title: "Transporter excess and clustering facilitate adaptor protein shuttling for bacterial efflux"
   image: 
   description: 
   authors: Wenyao Zhang, Christine E Harper, Junsung Lee, <strong>Bing Fu</strong>, Malissa Ramsukh, Christopher J Hernandez, Peng Chen<sup>*</sup>
   link:
-    url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta02347a/unauth
+    url: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00040-2
     display: Cell Reports Physical Science, 6, 102441 (2025) 
   highlight: 0
 
