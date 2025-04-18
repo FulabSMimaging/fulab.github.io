@@ -39,11 +39,13 @@ Microbial electrosynthesis is becoming an attractive sustainable energy source i
 
 ### ... and more.
 
+<div align="center">
 # How we study
+</div>
 
 We mainly employ the powerful single-molecule super-resolution microscopy to look at numerous biological and material systems. Combining microscopy with many other approaches, such as dynamic tracking, genetic engineering, microfluidic device, nanomaterials, electrochemical measurement and image analysis development, we can achieve multifunctional imaging with higher sensitivity and resolution, revealing novel scientific information that is unknown before. 
 
 <div style="display: flex; justify-content: space-between;">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/PSF.jpg){: style="width: 10%; float: center; margin: 0px"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Summary.jpg){: style="width: 30%; float: right; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/PSF.jpg){: style="width: 30%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Summary.png){: style="width: 30%; float: right; margin: 0px"}
 </div>
