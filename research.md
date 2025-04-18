@@ -12,14 +12,14 @@ Cells actively interact with each other and the outside surroundings. Microscopi
 
 **Metal regulation in bacteria**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig1.jpg){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig1.jpg){: style="width: 30%; float: center; margin: 0px"}
 
 **Host-pathogen interaction**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig2.jpg){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig2.jpg){: style="width: 30%; float: center; margin: 0px"}
 
 **Microbial hybrids energy conversion**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig3.jpg){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ResearchFig3.jpg){: style="width: 30%; float: center; margin: 0px"}
 
 ### ... and more.
