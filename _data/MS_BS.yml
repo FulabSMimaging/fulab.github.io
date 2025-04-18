@@ -15,7 +15,7 @@
   education2: BE Southeast University
 
 - name: Zhuo Chen 
-  photo: 
+  photo: Zhuo Chen.jpg
   info: Master student, started Jan 2025
   email: zchen625-c@my.cityu.edu.hk
   number_educ: 2
@@ -37,3 +37,9 @@
   number_educ: 1
   education1: CityU BME
  
+ - name: Christine EVELYNE
+  photo: Christine Evelyn.jpeg
+  info: CityU UG
+  email: 
+  number_educ: 1
+  education1: CityU BME
