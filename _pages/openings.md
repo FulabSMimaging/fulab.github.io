@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open positions <br><br><br><br>
 #### **We look for group members with passion, talent, and self-motivation!**
 
 **👉We will have future PhD quota for the 2026 admission. Stay tuned.**
