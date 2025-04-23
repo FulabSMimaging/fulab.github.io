@@ -6,8 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+<!--
 **News: We are looking for PhD students and research interns who want to gain research experience. Please contact me if you are interested.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
-
+-->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -39,6 +40,9 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKOV3_resize.png" alt="Slide 5" />
         </div>       
          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PA_image.png" alt="Slide 6" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_resize.jpg" alt="Slide 6" />
         </div>
     </div>
