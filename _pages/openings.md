@@ -11,7 +11,7 @@ permalink: /vacancies
 
 ### ❗New PhD Schemes for 2026 Admission❗
 
-👉 **Presidential Research Award**
+👉 **Presidential Research Award (PRA)**
 
 Requirements:
  - Applicants should have obtained a bachelor's degree from one of the top 10 universities in the latest QS or THE world university ranking, Tsinghua University or Peking University
@@ -24,7 +24,7 @@ Requirements:
  - allowance for accommodation for the first year
  - allowance for conference and research-related activites at an amount higher than regular PhD students
 
-👉 **Top Universities Studentship Scheme** <br>
+👉 **Top Universities Studentship Scheme (TUSS)** <br>
 
 Requirements: 
 - Applicants should have obtained a bachelor's degree from one of the top 20 universities in the latest QS or THE world university ranking, or one of the C9 League universities or UCAS
