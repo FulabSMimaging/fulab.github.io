@@ -9,11 +9,14 @@ permalink: /vacancies
 # Open Positions <br>
 ## **We look for group members with passion, talent, and self-motivation!**
 
-###❗New PhD Schemes for 2026 Admission <br>
-👉 **Presidential Research Award** <br>
+### ❗New PhD Schemes for 2026 Admission
+
+👉 **Presidential Research Award**
+
 Requirements:
  - Applicants should have obtained a bachelor's degree from one of the top 10 universities in the latest QS or THE world university ranking, Tsinghua University or Peking University
  - Demonstrate outstanding qualities of academic performance and research ability/potential
+
  Benefits: 
  - 4-year PhD + opportunities for 3 years postdoc/RAP
  - very competitive salary (higher than HKPFS students)
@@ -25,18 +28,20 @@ Requirements:
 Requirements: 
 - Applicants should have obtained a bachelor's degree from one of the top 20 universities in the latest QS or THE world university ranking, or one of the C9 League universities or UCAS
 - Demonstrate outstanding qualities of academic performance and research ability/potential
+
 Benefits: 
 - Full PhD salary
 - 50% tuition grant
 
-👉 **Hong Kong PhD Fellowship Scheme (HKPFS)**
-Please see here for details: https://cerg1.ugc.edu.hk/hkpfs/index.html
+👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
+Please see here for details: [https://cerg1.ugc.edu.hk/hkpfs/index.html](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
 👉 **Regular PhD Admission**
-- Requirements: 
+Requirements: 
 - Applicants should have obtained a bachelor's or master's degree from relevant disciplines
 - Demonstrate outstanding qualities of academic performance and research ability/potential
 - Have fulfilled all the university admission requirements
+
 Benefits: 
 - Full PhD salary
 
@@ -49,7 +54,7 @@ Benefits:
 
 ➡️ We also welcome competitive postdoc candidates. If you are interested in a postdoc position, please contact me. Postdoc fellowship opportunities in Hong Kong include: [RGC Postdoctoral Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/), Jockey Club Global STEM Post-doctoral Fellowship.
 
-### **Feel free to contact me at bingfu@cityu.edu.hk!**
+#### **Feel free to contact me at bingfu@cityu.edu.hk!**
 
 
 
