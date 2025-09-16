@@ -52,7 +52,7 @@ Benefits:
 
 
 ### Applications for PhD and Postdoc positions
-➡️ If you are interested in working with us as a PhD student or postdoc, please send me an email at bingfu@cityu.edu.hk. State briefly why you are interested and attach a CV, stranscript, past research experience and why you are interested in the lab. **Important**: please have _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
+➡️ If you are interested in working with us as a PhD student or postdoc, please send me an email at bingfu@cityu.edu.hk. State briefly why you are interested and attach a CV, stranscript, past research experience and why you are interested in the lab. **Important**: please have _"PhD Application"_ or _"Postdoc Application"_ in the subject line. 
 
 ➡️ Postdoc fellowship opportunities in Hong Kong include: [RGC Postdoctoral Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/), Jockey Club Global STEM Post-doctoral Fellowship.
 
