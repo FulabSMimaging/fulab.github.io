@@ -56,6 +56,8 @@ permalink: /
   </a>
 </div>
 
+➡️ New PhD schemes available! Check out [here](openings).⬅️
+
 We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our lab integrates super-resolution and other advanced optical imaging techniques with various chemical, biological and engineering tools to study complex microbial systems with high resolution and sensitivity at different scales, from collective bulk cell behaviors down to single-molecular mechanisms. Learn more [here](research). 
 
 
