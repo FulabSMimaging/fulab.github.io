@@ -61,6 +61,8 @@ permalink: /publications/
 
 ## Full List of publications
 
+#Equal contribution       *Corresponding author 
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
