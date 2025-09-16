@@ -6,12 +6,29 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions <br><br>
-#### **We look for group members with passion, talent, and self-motivation!**
+# Open Positions <br><br>
+## **We look for group members with passion, talent, and self-motivation!**
 
-**👉We will have future PhD quota for the 2026 admission. Stay tuned.**
+❗New PhD Schemes for 2026 Admission
+👉 **Presidential Research Award**
+Requirements:
+ - Applicants should have obtained a BSc degree from one of the top 10 universities in the latest QS or THE world university ranking, Tsinghua University or Peking University
+ - Demonstrate outstanding qualities of academic performance and research ability/potential
+ Benefits: 
+ - 4-year PhD + opportunities for 3 years postdoc/RAP
+ - very competitive salary (higher than HKPFS students)
+ - full tuition grant
+ - allowance for accommodation for the first year
+ - allowance for conference and research-related activites at an amount higher than regular PhD students
+👉 **Top Universities Studentship Scheme**
+Requirements: 
+- Applicants should have obtained a BSc degree from one of the top 20 universities in the latest QS or THE world university ranking, or one of the C9 League universities or UCAS
+- Demonstrate outstanding qualities of academic performance and research ability/potential
+Benefits: 
+- Full PhD salary
+- 50% tuition grant
 
-**👉CityU Master students and Undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
+**👉 CityU Master students and Undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
 <br>
 
@@ -19,10 +36,6 @@ permalink: /vacancies
 ➡️ If you are interested in working with us as a PhD student or postdoc, please send me an email at bingfu@cityu.edu.hk. State briefly why you are interested and attach a CV, stranscript, past research experience and why you are interested in the lab. **Important**: please have _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 
 ➡️ We also welcome competitive postdoc candidates. If you are interested in a postdoc position, please contact me. Postdoc fellowship opportunities in Hong Kong include: [RGC Postdoctoral Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/), Jockey Club Global STEM Post-doctoral Fellowship
-
-
-
-
 
 
 
