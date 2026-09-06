@@ -1,5 +1,14 @@
+- title: "Spatiotemporal organization of membrane protein controls bacterial extracellular electron transfer"
+  image: JACS_perspective2025.jpeg
+  description: 
+  authors: Youngchen Park, Tianlei Yan, Zhiheng Zhao, <strong>Bing Fu</strong>, Muwen Yang, Farshid Salimijazi, Buz Barstow, Peng Chen<sup>*</sup>
+  link:
+    url: https://www.nature.com/articles/s41467-026-69655-y
+    display: Nat. Commun., 1159-1168 (2026) 
+  highlight: 0
+
 - title: "Single-molecule fluorescence imaging and tracking in live bacteria: observing proteins in action"
-  image: MMBR2026.jpeg
+  image: MMBR2026.jpg
   description: 
   authors: Chenwei Xiong<sup>#</sup>, Qiqi Hao<sup>#</sup>, Xiaoming Zhu, Chenming Lu, Yang Zhou, Xusan Yang, Feifan Wang, <strong>Bing Fu</strong><sup>*</sup>
   link:
