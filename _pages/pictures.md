@@ -12,7 +12,7 @@ permalink: /pictures/
 -->
 
 #### Gallery
-(Right-click *'view image'* to see a larger image.)
+(Click an image to view it at full size.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -23,7 +23,14 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+{% assign image_url = '/images/picpic/Gallery/' | append: pic.image %}
+<a href="{{ image_url | relative_url }}" target="_blank" rel="noopener">
+  <img src="{{ image_url | relative_url }}"
+       class="img-responsive"
+       width="95%"
+       style="float: left"
+       alt="{{ pic.title }}" />
+</a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
