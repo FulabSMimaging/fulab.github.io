@@ -62,9 +62,9 @@ Requirements:
 👉 **CityU Master students and Undergraduates who are interested in gaining research experience, and visiting scholars are always welcome to get in touch.**
 
 
-### How to apply
+ ### ➡️ How to apply
 
-➡️ If you are interested in working with us as a PhD student or postdoc, please send me an email at bingfu@cityu.edu.hk. State briefly why you are interested in joining the lab, attach your CV and stranscript (both undergraduate and master if applicable).  **Important**: please have _"PhD Application", _"Postdoc Application" or _"Research internship" in the subject line. 
+If you are interested in working with us as a PhD student or postdoc, please send me an email at bingfu@cityu.edu.hk. State briefly why you are interested in joining the lab, attach your CV and stranscript (both undergraduate and master if applicable).  **Important**: please have _"PhD Application", _"Postdoc Application" or _"Research internship" in the subject line. 
 
 
 
