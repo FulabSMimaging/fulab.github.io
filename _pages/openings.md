@@ -22,7 +22,7 @@ Requirements:
 Benefits: 
 - **Full PhD salary (HKD 19,100/month, approximately CNY 16,000/month or USD 2,400/month)**
 
-#### PhD Fellowship Programs: 
+#### **PhD Fellowship Programs:**
 
 👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
 
