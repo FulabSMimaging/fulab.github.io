@@ -56,10 +56,8 @@ Benefits:
 - 50% tuition grant
 
 
-👉 **Local Talent Program**
+👉 **Local Talent Program** <br>
 
-Requirements: 
-- 
 
 
 ### Postdoc positions
