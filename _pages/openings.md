@@ -11,6 +11,27 @@ permalink: /vacancies
 
 ### ❗New PhD Schemes for 2027 Admission❗
 
+
+#### **Regular PhD Admission**
+
+Requirements: 
+- Applicants should have obtained a bachelor's or master's degree from relevant disciplines
+- Demonstrate outstanding qualities of academic performance and research ability/potential
+- Have fulfilled all the university admission requirements
+
+Benefits: 
+- **Full PhD salary (HKD 19,100/month, approximately CNY 16,000/month or USD 2,400/month)**
+
+#### PhD Fellowship Programs: 
+
+👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
+
+Benefits: 
+- HK$14,400/month (approximately US$1,840) 
+- annual conference and research-related travel allowances of HK$14,400 (approximately US$1,840) for a period of up to three years
+
+Please see here for details: [https://cerg1.ugc.edu.hk/hkpfs/index.html](https://cerg1.ugc.edu.hk/hkpfs/index.html)
+
 👉 **Presidential Research Award (PRA)**
 
 Requirements:
@@ -34,21 +55,9 @@ Benefits:
 - Full PhD salary
 - 50% tuition grant
 
-👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
-
-Please see here for details: [https://cerg1.ugc.edu.hk/hkpfs/index.html](https://cerg1.ugc.edu.hk/hkpfs/index.html)
-
-👉 **Regular PhD Admission**
-
-Requirements: 
-- Applicants should have obtained a bachelor's or master's degree from relevant disciplines
-- Demonstrate outstanding qualities of academic performance and research ability/potential
-- Have fulfilled all the university admission requirements
-
-Benefits: 
-- Full PhD salary
 
 👉 **Local Talent Program**
+
 Requirements: 
 - 
 
