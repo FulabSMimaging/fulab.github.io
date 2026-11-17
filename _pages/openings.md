@@ -20,14 +20,14 @@ Requirements:
 - Have fulfilled all the university admission requirements
 
 Benefits: 
-- **Full PhD salary (HK$ 19,100/month, approximately CNY 16,000/month or US$ 2,400/month)**
+- **Full PhD salary (HK$19,100/month, approximately CNY 16,000/month or US$2,400/month)**
 
 #### **PhD Fellowship Programs:**
 
 👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
 
 Benefits: 
-- HK$28,700/month (approximately US$1,840) 
+- HK$28,700/month (approximately US$3,660) 
 - Annual conference and research-related travel allowances of HK$14,400 (approximately US$1,840) for a period of up to three years
 
 Please see here for details: [https://cerg1.ugc.edu.hk/hkpfs/index.html](https://cerg1.ugc.edu.hk/hkpfs/index.html)
