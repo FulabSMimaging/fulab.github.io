@@ -27,7 +27,7 @@ Benefits:
 👉 **Hong Kong PhD Fellowship Scheme (HKPFS)** <br>
 
 Benefits: 
-- HK$28,700/month (approximately US$3,660) 
+- HK$28,700/month (approximately US$3,660)
 - Annual conference and research-related travel allowances of HK$14,400 (approximately US$1,840) for a period of up to three years
 
 Please see here for details: [https://cerg1.ugc.edu.hk/hkpfs/index.html](https://cerg1.ugc.edu.hk/hkpfs/index.html)
