@@ -58,12 +58,11 @@ permalink: /
 
 **New PhD schemes available! See [openings](vacancies).**
 
-We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our lab integrates super-resolution and other advanced optical imaging techniques with various chemical, biological and engineering tools to study complex microbial systems with high resolution and sensitivity at different scales, from collective bulk cell behaviors down to single-molecular mechanisms. Learn more [here](research). 
+We are a dynamic research group, at the [CityU BME](https://www.cityu.edu.hk/bme/). Our lab integrates super-resolution and other advanced optical imaging techniques with various chemical, biological and engineering tools to study complex microbial systems with high resolution and sensitivity at different scales, from collective bulk cell behaviors down to single-molecular mechanisms. Learn more [here](research). <br><br>
 
+See departmental lab website here: https://www.cityu.edu.hk/stfprofile/bingfu.htm  <br><br>
 
-We are grateful for funding from CityU, [Research Grant Council](https://www.ugc.edu.hk/eng/rgc/), and [NSFC](https://www.nsfc.gov.cn/english/site_1/index.html).
-
-
+We are grateful for funding from CityU, [Research Grant Council](https://www.ugc.edu.hk/eng/rgc/), and [NSFC](https://www.nsfc.gov.cn/english/site_1/index.html).<br><br>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityU_logo_2015.png" style="width: 140px">
